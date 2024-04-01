@@ -1,0 +1,209 @@
+/* #ffd429 */
+
+.XenBase label.iconic:hover>input+i {
+    color: #ffd429
+}
+
+.fr-popup .fr-action-buttons button.fr-command:not(.button--splitTrigger):hover,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text:hover,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu:hover,.fr-popup .fr-action-buttons button.fr-command:not(.button--splitTrigger):focus,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text:focus,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu:focus,.fr-popup .fr-action-buttons button.fr-command:not(.button--splitTrigger):active,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text:active,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu:active {
+    background-color: #ffd429
+}
+
+/* #fc0 */
+
+.file-progress i, .pollResult-bar>i, 
+.message-newIndicator.message-threadStarter, .message-newIndicator,a.message-newIndicator {
+    background: #fc0;
+}
+
+.XenBase :not(.block-header) .button.button--link,.XenBase :not(.block-header) a.button.button--link, .button {
+    background-color: #fc0;
+}
+
+.fr-popup .fr-action-buttons button.fr-command {
+    background: #fc0;
+    border-color: #e6b800 #ffd11a #ffd11a #e6b800;
+}
+
+.fr-element a,.bbWrapper a, .XenBase label.iconic i, .p-breadcrumbs--parent .p-breadcrumbs a, .p-breadcrumbs--parent .p-breadcrumbs, .p-footer-default a, .p-footer-default, .message-header .message-attribution .bookmarkLink, .message-header .message-attribution a:hover, .message-cell .messageNotice a, .message-header .message-attribution, .p-staffBar .badgeContainer:not(.badgeContainer--highlighted):after, .pollResult--voted .pollResult-response:before, .messageNotice:before, .message-expandLink a, .fr-view blockquote[data-quote]:before, .attachmentUploads .hScroller-action, .attachmentUploads-selectActions .selectAll .iconic input+i, .file-error, .bbCodeBlock-title, .bbCodeBlock-expandLink a {
+    color: #fc0;
+}
+
+.fr-view blockquote {
+    border-left: 3px solid #fc0;
+}
+
+.messageNotice {
+    border-left: 2px solid #fc0
+}
+
+.bbCodeBlock {
+    border-left: 3px solid #fc0
+}
+
+/* #ffd11a */
+
+.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text {
+    border-right-color: #ffd11a
+}
+
+/* #e6b800 */
+
+.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu {
+    border-left-color: #e6b800
+}
+
+/* #ffe066 */
+
+.attachmentUploads .hScroller-action:hover, .bookmarkLink.bookmarkLink--highlightable.is-bookmarked:hover, 
+.fr-element a:hover,.bbWrapper a:hover, 
+.message-cell .messageNotice a:hover, .message-attribution-opposite a:hover {
+    color: #ffe066
+}
+
+/* #ffc */
+
+.XenBase .notice.notice--light, .notice.notice--primary, .pollResult-voters,
+.messageNotice.messageNotice--highlighted , .fr-popup .fr-input-line input[type=text],.fr-popup .fr-input-line textarea, .fr-popup .fr-input-line input[type=text],.fr-popup .fr-input-line input[type=number],.fr-popup .fr-input-line textarea, .fr-popup, .fr-modal, .fr-desktop .fr-command.fr-selected:not(.fr-table-cell),.fr-desktop .fr-command:active, .fr-toolbar .fr-command.fr-btn,.fr-popup .fr-command.fr-btn,.fr-modal .fr-command.fr-btn, 
+.fr-box.fr-basic .fr-element, .bbCodeBlock--unfurl, .attachmentUploads-banner, .fr-toolbar {
+    color: #ffc;
+}
+
+.fr-command.fr-btn+.fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a svg path, .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:hover,.fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:hover,.fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:hover, .fr-toolbar .fr-command.fr-btn svg path,.fr-popup .fr-command.fr-btn svg path,.fr-modal .fr-command.fr-btn svg path , .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active,.fr-popup .fr-command.fr-btn.fr-dropdown.fr-active,.fr-modal .fr-command.fr-btn.fr-dropdown.fr-active {
+    fill: #ffc;
+}
+
+.fr-box.fr-basic .fr-wrapper {
+    border-bottom-color: #ffc;
+}
+
+@media(min-width: 992px) {
+
+    .fr-box.fr-document .fr-wrapper {
+        background: #ffc
+    }
+
+    .fr-box.fr-document .fr-wrapper .fr-element hr {
+        background: #ffc;
+    }
+}
+
+
+.fr-toolbar .fr-command.fr-btn.fr-dropdown:after,.fr-popup .fr-command.fr-btn.fr-dropdown:after,.fr-modal .fr-command.fr-btn.fr-dropdown:after {
+    border-top: 4px solid #ffc;
+}
+
+
+.fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:hover::after,.fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:hover::after,.fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:hover::after {
+    border-top-color: #ffc
+}
+
+.fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:after,.fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:after,.fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:after {
+    border-bottom: 4px solid #ffc
+}
+
+.fr-popup .fr-color-set>span>i path,.fr-popup .fr-color-set>span>svg path {
+    fill: #ffc
+}
+
+.fr-toolbar .fr-newline {
+    background: #ffc;
+}
+
+
+.fr-box.fr-basic.is-focused .fr-element {
+    border-color: #ffc
+}
+
+.XenBase .notice.notice--light a.button {
+    background: #ffc;
+    border-color: #ffc
+}
+
+.XenBase .notice.notice--light a.button:hover {
+    background: rgba(255,255,204,.9);
+    border-color: #ffc
+}
+
+.block-container .structItem.structItem--note {
+    color: #ffc
+}
+
+
+.pika-prev,.pika-next {
+    color: #ffc
+}
+
+.fr-modal .fr-modal-wrapper .fr-modal-head {
+    border-bottom: solid #ffc 1px;
+}
+
+/* #eeeeab */
+
+.message--articlePreview .articlePreview-meta, .messageNotice.messageNotice--highlighted:before, .message-cell .messageNotice {
+    color: #eeeeab;
+}
+
+#fr-logo:hover>svg .fr-logo,#fr-logo:focus>svg .fr-logo, .fr-toolbar .fr-btn-grp .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-popup .fr-btn-grp .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-modal .fr-btn-grp .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-toolbar .fr-more-toolbar .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-popup .fr-more-toolbar .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-modal .fr-more-toolbar .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-toolbar .fr-buttons:not(.fr-tabs) .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-popup .fr-buttons:not(.fr-tabs) .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path,.fr-modal .fr-buttons:not(.fr-tabs) .fr-command.fr-btn.fr-active:not(.fr-dropdown) svg path {
+    fill: #eeeeab
+}
+
+.file-typeIcon, .tabs--editor .tabs-tab, .message-articleWrittenBy, .message-articleUserStats, .comment-note, .comment-actionBar .actionBar-set, .message-signature, .message-lastEdit, .message-minorHighlight, .message-attribution, .message-cell.message-cell--extra .formRow-explain, .fr-popup .fr-input-line input.fr-not-empty+label,.fr-popup .fr-input-line textarea.fr-not-empty+label, .fr-view.fr-element .fr-disabled, #fr-logo:hover>span,#fr-logo:focus>span, .file-typeIcon, .tabs--editor .tabs-tab, .fr-toolbar .fr-command.fr-btn.fr-active:not(.fr-disabled) {
+    color: #eeeeab
+}
+
+/* #e6db74 */
+
+.bbCodeCode .prism-token.prism-class-name,.bbCodeCode .prism-token.prism-important,.bbCodeCode .prism-token.prism-bold, .bbCodeCode .prism-token.prism-selector,.bbCodeCode .prism-token.prism-function, .bbCodeCode .prism-token.prism-symbol,.bbCodeCode .prism-token.prism-atrule,.bbCodeCode .prism-token.prism-keyword {
+    color: #e6db74
+}
+
+/* #ebebeb */
+
+.fr-separator {
+    background: #ebebeb;
+}
+
+/* #f5f5f5 */
+
+.fr-popup .fr-input-focus {
+    background: #f5f5f5
+}
+
+/* #f3eec3 */
+
+.fr-view .fr-highlight-change,.fr-highlight-change>img,.fr-highlight-change>.fr-video>video,.fr-highlight-change>.fr-video>embed,.fr-highlight-change>.fr-video>iframe,.fr-highlight-change>.fr-embedly>.embedly-card>.embedly-card-hug>iframe,.fr-highlight-change>p,.fr-view .fr-highlight-change>span:not(.fr-tracking-deleted) {
+    background-color: #f3eec3;
+}
+
+.fr-highlight-change.fr-highlight-change>table td,.fr-highlight-change.fr-highlight-change>hr {
+    border-color: #f3eec3
+}
+.fr-tracking-deleted img,.fr-highlight-change img {
+    border: 2px solid #f3eec3
+}
+
+.fr-highlight-change #isPasted *:not(table):not(tbody):not(tr):not(td) {
+    background-color: #f3eec3
+}
+
+.fr-highlight-change #isPasted>table td {
+    border-color: #f3eec3
+}
+
+/* #e6ddb0 */
+
+.XenBase .notice.notice--primary {
+    border-color: #e6ddb0
+}
+
+/* #b3b38f */
+
+.XenBase .notice.notice--light a:not(.button) {
+    color: #b3b38f
+}
+
+/* #997a00 */
+
+.p-breadcrumbs--parent .p-breadcrumbs>li:after {
+    color: #997a00
+}
