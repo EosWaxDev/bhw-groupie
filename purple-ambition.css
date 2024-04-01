@@ -1,26 +1,26 @@
 /* #ffd429 */
 
 .XenBase label.iconic:hover>input+i {
-    color: #ffd429
+    color: purple;
 }
 
 .fr-popup .fr-action-buttons button.fr-command:not(.button--splitTrigger):hover,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text:hover,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu:hover,.fr-popup .fr-action-buttons button.fr-command:not(.button--splitTrigger):focus,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text:focus,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu:focus,.fr-popup .fr-action-buttons button.fr-command:not(.button--splitTrigger):active,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-text:active,.fr-popup .fr-action-buttons button.fr-command.button--splitTrigger>.button-menu:active {
-    background-color: #ffd429
+    background-color: purple;
 }
 
 /* #fc0 */
 
 .file-progress i, .pollResult-bar>i, 
 .message-newIndicator.message-threadStarter, .message-newIndicator,a.message-newIndicator {
-    background: #fc0;
+    background: purple;
 }
 
 .XenBase :not(.block-header) .button.button--link,.XenBase :not(.block-header) a.button.button--link, .button {
-    background-color: #fc0;
+    background-color: purple;
 }
 
 .fr-popup .fr-action-buttons button.fr-command {
-    background: #fc0;
+    background: purple;
     border-color: #e6b800 #ffd11a #ffd11a #e6b800;
 }
 
